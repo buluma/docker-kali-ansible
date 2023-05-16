@@ -24,7 +24,7 @@ RUN echo "alias ftp-server='python3 -m pyftpdlib -u \"admin\" -P \"S3cur3d_Ftp_3
 WORKDIR /root
 
 # hadolint ignore=DL3059
-RUN sed -i 's/^\($ModLoad imklog\)/#\1/' /etc/rsyslog.conf
+# RUN sed -i 's/^\($ModLoad imklog\)/#\1/' /etc/rsyslog.conf
 
 # Fix potential UTF-8 errors with ansible-test.
 RUN locale-gen en_US.UTF-8
