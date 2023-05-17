@@ -1,8 +1,8 @@
-# Ubuntu 20.04 LTS (Focal Fossa) Ansible Test Image
+# Kali Linux (kali-rolling) Ansible Test Image
 
 [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-kali-ansible)](https://hub.docker.com/r/buluma/docker-kali-ansible/) [![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-kali-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-kali-ansible/) [![Build](https://github.com/buluma/docker-kali-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-kali-ansible/actions/workflows/build.yml) [![CodeFactor](https://www.codefactor.io/repository/github/buluma/docker-kali-ansible/badge)](https://www.codefactor.io/repository/github/buluma/docker-kali-ansible)
 
-Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
+Kali Linux (kali-rolling) Docker container for Ansible playbook and role testing.
 
 ## Tags
 
