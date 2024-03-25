@@ -1,6 +1,6 @@
 FROM kalilinux/kali-rolling
 LABEL maintainer="Michael Buluma"
-LABEL build_date="2023-05-17"
+LABEL build_date="2023-03-25"
 
 RUN apt-get update \
   && apt-get install -y --no-install-recommends --allow-downgrades \
